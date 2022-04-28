@@ -1,12 +1,6 @@
-# SKKU_Computer_Graphics
+# Computer_Graphics
 Computer graphics is a fundamental tool for creating and manipulating visual media including games, animation, virtual reality and web.
 From implementing a simple 2D animation of circles, I developed my code to Geometric modeling of a 3D sphere, 3D transformations with camera interaction and shading / textures / normal mapping.
-
-## How to Play?
-    $git clone https://github.com/hanwoolsky/SKKU_Computer_Graphics.git
-    
-    > Go to Each_Folder/bin and execute cgcirc.exe file
-
 
 ## 1. Moving Circles
 <img width="1600" alt="Moving Circles" src="./README_GIF_FILES/Moving_Circles.gif" />
@@ -48,6 +42,6 @@ From implementing a simple 2D animation of circles, I developed my code to Geome
 
 
 # Copy Right
-> cgut.h file is provided by Prof Sungkil Lee.
+> Most of header files are provided by Prof Sungkil Lee.
 
 > Planets's normal and bump texture jpg file is from http://planetpixelemporium.com/
