@@ -3,14 +3,14 @@ Computer graphics is a fundamental tool for creating and manipulating visual med
 From implementing a simple 2D animation of circles, I developed my code to Geometric modeling of a 3D sphere, 3D transformations with camera interaction and shading / textures / normal mapping.
 
 ## 1. Moving Circles
-<img width="800" alt="Moving Circles" src="./README_GIF_FILES/Moving_Circles.gif" />
+<img width="100%" alt="Moving Circles" src="./README_GIF_FILES/Moving_Circles.gif" />
 
     ◻ Press 'd' key to see flowers.
     ◻ Press 3(Triagle), 4(Square), 5(Pentagon), 0(Circle) to change shape.
     ◻ Press 'g' key to add gravity.
 
 ## 2. Planet in Space
-<img width="800" alt="Planet in Space" src="./README_GIF_FILES/Planet_in_Space.gif" />
+<img width="100%" alt="Planet in Space" src="./README_GIF_FILES/Planet_in_Space.gif" />
 
     ◻ Press 'w' key to toggle wireframe.
     ◻ Press 'r' key to rotate and stop the sphere.
@@ -19,7 +19,7 @@ From implementing a simple 2D animation of circles, I developed my code to Geome
 
 
 ## 3. Moving Planets
-<img width="800" alt="Moving Planets" src="./README_GIF_FILES/Moving_Planets.gif" />
+<img width="100%" alt="Moving Planets" src="./README_GIF_FILES/Moving_Planets.gif" />
 
     ◻ Press 'w' key to toggle wireframe.
     ◻ 'Right click' or 'Shift + left click' to zooming.
@@ -29,7 +29,7 @@ From implementing a simple 2D animation of circles, I developed my code to Geome
 
 
 ## 4. Full Solar System
-<img width="800" alt="Full Solar System" src="./README_GIF_FILES/Full_Solar_System.gif" />
+<img width="100%" alt="Full Solar System" src="./README_GIF_FILES/Full_Solar_System.gif" />
 
     ◻ 'Right click' or 'Shift + left click' to zooming.
     ◻ 'Middle click' or 'Ctrl + left click' to panning.
@@ -38,7 +38,7 @@ From implementing a simple 2D animation of circles, I developed my code to Geome
 
 
 ## 5. Nomal Mapping (Earth)
-<img width="800" alt="Nomal Mapping (Earth)" src="./README_GIF_FILES/Nomal_Mapping.gif" />
+<img width="100%" alt="Nomal Mapping (Earth)" src="./README_GIF_FILES/Nomal_Mapping.gif" />
 
 
 # Copy Right
